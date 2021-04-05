@@ -1,0 +1,2 @@
+# LemparCoinatikahtia
+Applikasi Sederhana
